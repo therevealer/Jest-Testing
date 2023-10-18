@@ -1,4 +1,4 @@
-const add = require('./math')
+const add = require('../math')
 
 test('add function should correctly add two numbers', () => {
 
